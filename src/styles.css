@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    font-size: 18px;
+
+
+}
+
+ img    {
+    width: 200px;
+    height: 150px;
+    border: 1px black;
+    background-position: center;
+    background-size: cover;
+}
+span {
+    color: white;
+}
+p {
+    color: white;
+}
+.africa {
+    color: cornflowerblue;
+}
+.europe {
+    color: yellow;
+}
+.americas{
+    color: forestgreen;
+}
+.asia {
+    color: red;
+}
+.oceania {
+    color: purple;
+}
+.antarctic {
+    color: #696FC7;
+}
+.antarcticOcean {
+    color: darkorange;
+}
+.polar {
+    color: #BBC0CA;
+}
